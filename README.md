@@ -32,13 +32,3 @@ Welcome to the WaveX Watercraft Company Analytics Project! This repository conta
   - Overview of employee demographics and departmental insights.
   - Metrics on job satisfaction and promotion status.
 
-## How to Use
-
-### Prerequisites
-- Microsoft Power BI Desktop
-- Data files: 2022 Sales Data (Text File), Company Data (Excel), Distributor List (PDF)
-
-### Steps
-1. **Download the Repository:** Clone or download the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/WaveX-Watercraft-Analytics.git
